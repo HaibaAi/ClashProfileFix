@@ -9,3 +9,5 @@ payload:
 - IP-CIDR,121.53.89.11/32 #  p1-play.edge4k.com
 - IP-CIDR,121.53.107.181/32
 - IP-CIDR,199.59.148.247/32 # daum.net
+- IP-CIDR,23.216.153.139/32 # t1.daumcdn.net
+- IP-CIDR,23.216.153.132/32
