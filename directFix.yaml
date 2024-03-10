@@ -1,0 +1,4 @@
+payload:
+  - GEOSITE,category-games@cn,DIRECT # 直连的游戏软件域名
+  - PROCESS-NAME,WeChat.exe,DIRECT # 微信
+  - PROCESS-NAME,WeChatAppEx.exe,DIRECT # 微信
