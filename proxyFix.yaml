@@ -1,4 +1,4 @@
 payload:
-  - DOMAIN-SUFFIX,mangafuna.xyz,Proxy # 拷贝漫画
-  - DOMAIN-SUFFIX,mangacopy.com,Proxy # 拷贝漫画
-  - DOMAIN-SUFFIX,okx.com,Proxy # 欧易
+  - DOMAIN-SUFFIX,mangafuna.xyz # 拷贝漫画
+  - DOMAIN-SUFFIX,mangacopy.com # 拷贝漫画
+  - DOMAIN-SUFFIX,okx.com # 欧易
