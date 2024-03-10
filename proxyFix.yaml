@@ -2,3 +2,4 @@ payload:
   - DOMAIN-SUFFIX,mangafuna.xyz # 拷贝漫画
   - DOMAIN-SUFFIX,mangacopy.com # 拷贝漫画
   - DOMAIN-SUFFIX,okx.com # 欧易
+  - PROCESS-NAME,Telegram.exe # telegram
