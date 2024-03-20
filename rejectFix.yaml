@@ -1,0 +1,2 @@
+payload:
+  - DOMAIN-SUFFIX,awstrack.me # aws点击跟踪域名(主要修复QQ邮箱米哈游游戏链接被拦截)
