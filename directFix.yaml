@@ -5,3 +5,4 @@ payload:
   - DOMAIN-SUFFIX,edu.cn # 教育网
   - DOMAIN-SUFFIX,edu.cnnull # 教育网
   - DOMAIN-SUFFIX,gov.cn # 政务网
+  - DOMAIN-SUFFIX,akamaized.net # 动漫网站www.dmla4.com的播放网址v16m-default.akamaized.net
